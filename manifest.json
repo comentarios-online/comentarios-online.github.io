@@ -1,6 +1,6 @@
 {
-    "name": "comentarios_flutter",
-    "short_name": "comentarios_flutter",
+    "name": "comentarios",
+    "short_name": "comentarios",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
